@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelUpRestApi", "LevelUpRestApi\LevelUpRestApi.csproj", "{111560C7-70EB-4FF2-8E96-03D4C425C277}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelUpRestApi.Tests", "LevelUpRestApi.Tests\LevelUpRestApi.Tests.csproj", "{54E04014-D559-48A6-999A-8E77D1F9A09A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{111560C7-70EB-4FF2-8E96-03D4C425C277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{111560C7-70EB-4FF2-8E96-03D4C425C277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{111560C7-70EB-4FF2-8E96-03D4C425C277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{111560C7-70EB-4FF2-8E96-03D4C425C277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54E04014-D559-48A6-999A-8E77D1F9A09A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E04014-D559-48A6-999A-8E77D1F9A09A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E04014-D559-48A6-999A-8E77D1F9A09A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E04014-D559-48A6-999A-8E77D1F9A09A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
